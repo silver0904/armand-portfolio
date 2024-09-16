@@ -1,0 +1,77 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Java
+  logo: /images/sections/skills/java.webp
+  summary: "Primarily use Java for professional development, with experience in frameworks like Spring Boot, Hibernate, JPA, and Android."
+
+- name: React.js
+  logo: /images/sections/skills/reactjs.png
+  summary: "Extensive experience with React.js for frontend development, including state management, hooks, and the Context API."
+
+- name: Node.js
+  logo: /images/sections/skills/node.png
+  summary: "Skilled in using Node.js for backend and middleware development, with hands-on experience in Express.js, RESTful APIs, and GraphQL."
+
+- name: Database
+  logo: /images/sections/skills/database.png
+  summary: "Experienced with both relational and NoSQL databases, including MySQL, MariaDB, SQL Server, MongoDB, and DynamoDB."
+
+- name: C++
+  logo: /images/sections/skills/c++.svg
+  summary: "Intermediate knowledge of C++, primarily using it with the Qt framework for mobile app development."
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Proficient in git-based workflows, familiar with branching strategies, and experienced with platforms like GitHub, GitLab, and Bitbucket."
+
+- name: Amazon Web Services
+  logo: /images/sections/skills/aws.svg
+  summary: "Worked extensively with AWS services, including EC2, ECS, SQS, S3, RDS, Lambda, API Gateway, DynamoDB, Kinesis Firehose, Route53, and CloudFormation."
+
+- name: Agile
+  logo: /images/sections/skills/jira.svg
+  summary: "Experienced with Agile methodologies like Scrum and Kanban, and have used tools like JIRA for project management."
+
+
+# - name: Go Development
+#   logo: /images/sections/skills/go.png
+#   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+#   url: "https://golang.org/"
+
+# - name: Cloud Computing
+#   logo: /images/sections/skills/cloud.png
+#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+# - name: Docker
+#   logo: /images/sections/skills/docker.svg
+#   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+#   url: "https://www.docker.com/"
+
+# - name: Prometheus
+#   logo: /images/sections/skills/prometheus.png
+#   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+#   url: "https://prometheus.io/"
+
+# - name: Linux
+#   logo: /images/sections/skills/linux.png
+#   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+
+# - name: Git
+#   logo: /images/sections/skills/git.png
+#   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+#   url: "https://git-scm.com/"
+
+# - name: C++
+#   logo: /images/sections/skills/c++.png
+#   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."

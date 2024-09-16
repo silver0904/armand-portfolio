@@ -1,0 +1,44 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# your projects
+projects:
+- name: Express Expenses Split
+  role: Owner
+  timeline: "August 2024 - Present"
+  url: http://armand-finance-helper-react.s3-website-us-west-2.amazonaws.com # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: A easy to use website for user to split the expenses between their friends without ease. 
+   The frontend is built with React.js and hosted on AWS S3.
+   The backend is built with AWS Lambda and DynamoDB.
+  tags: ["aws", "react", "typescript", "serverless", "fullstack"]
+
+- name: Leetcode Practice
+  role: Owner
+  timeline: "Aug 2022 - Present"
+  repo: https://github.com/silver0904/leetcode_practice
+  #url: ""
+  summary: A repo for me to store some of my leetcode answer.
+  tags: ["java", "personal", "algorithm"]
+
+- name: Witch War
+  role: Owner
+  timeline: "April 2022 - May 2022 (Discontinued)"
+  repo: https://github.com/silver0904/witchwar-react/
+  #url: ""
+  summary: I tried to replicate a classic custom map in Warcraft III, called Warlock, with React.js. Unfortunately, I didn't have the time and resources(graphic) to finish it.
+  tags: ["react", "node", "gamedev", "typescript"]
+
+- name: Silver Blog
+  role: Owner
+  timeline: "Jun 2017 - Sep 2017 (Discontinued)"
+  url: "https://silver0904.github.io"
+  summary: My first ever personal website. It was built with basic HTML, CSS, JavaScript, and hosted as GitHub Pages. Contents are written in Tradtional Chinese only.
+  tags: ["personal","html","css","javascript"]

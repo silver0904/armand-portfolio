@@ -1,0 +1,78 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Felix Payment Systems
+    url: "https://www.example.com"
+    location: Vancouver, British Columbia, Canada
+    logo: /images/sections/experiences/felix.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: |
+      Felix Payment Systems Ltd. is a startup company in cloud EMV payment technology, serving the North American, LATAM and Euro markets. 
+      The main products are a Terminal Application that runs on Android, and the SDK that can be integrated into any Android, Linux and Windows application.
+      [Click here](https://play.google.com/store/apps/details?id=com.payfelix.felixterminal) to view the final product.
+  positions:
+  - designation: Intermediate Software Developer
+    start: Aug 2022
+    responsibilities:
+    - Collaborated within a dynamic, small-sized team to spearhead the development of an innovative payment mobile application, leveraged tools such as Android Studio and Qt Creator.
+    - Conducted comprehensive code reviews to ensure adherence to best practices, optimizing code quality, and promoting efficient teamwork.
+    - Executed a successful application revamp, transitioning from Android Studio to Qt Creator (C++).
+    - Applied Agile methodologies to implement new features and stories.
+    - Contributed to the system's robustness by designing and delivering detailed sequence diagrams for intricate features.
+
+- company:
+    name: IBM
+    url: "https://www.ibm.com"
+    location: Hong Kong, China
+    logo: /images/sections/experiences/ibm.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: |
+      IBM Consulting delivers high-quality and innovative IT solutions to meet our client’s business needs. 
+      In this particular project, I was responsible for developing a e-commerce system for a large-scale client.
+      [Click here](https://sourcing.hktdc.com/) to view the production website.
+  positions:
+  - designation: Analyst Programmer
+    start: March 2021
+    end: April 2022
+    responsibilities:
+    - Served as a full stack developer of an AWS Cloud based B2B E-Commerce Application with 100+ microservices.
+    - Utilized full stack technologies including React.js, Node.js, Java Springboot, Restful API, GraphQL and MariaDB.
+    - Using Apache Kafka, Debezium, and Elastic Search to capture data change and update Data to search engine according to the Data Driven Design (DDD) model.
+    - Take advantage of Unit Testing and Test-Driven Development (TDD) to avoid potential bug.
+    - Investigated, resolved 50+ existing product defects.
+    - Implemented, assisted on design on 30+ stories in an Agile development environment.
+    - Managed and deployed cloud infrastructure using Amazon Web Service (AWS).
+    - Achieve continuous integration and continuous deployment (CI/CD) using shell scripting and Gitlab.
+
+- company:
+    name: Automated System Limited
+    url: "https://www1.asl.com.hk/"
+    location: Hong Kong, China
+    logo: /images/sections/experiences/asl.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: |
+      Automated System Limited (ASL) is an IT consulting company that provides IT solutions to various industries. In this particular project, I was responsible for developing a web application for the Hong Kong Civil Aviation Department.
+        [Click here](https://esua.cad.gov.hk/web/) to view the production website.
+  positions:
+  - designation: Programmer
+    start: Sept 2019
+    end: Feb 2021
+    responsibilities:
+    - Implement the UI of the website with CSS, HTML, jQuery, bootstrap, jsp and the application logic with Java Springboot, supported by MS SQL Server as database.
+    - Integrated existing application with 2FA login.
+    - Designing entity relationship model of the database and application.
+    - Deployed new version of application and perform health check on Windows Server.

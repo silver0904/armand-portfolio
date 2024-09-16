@@ -1,0 +1,88 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Developer
+# your company information
+company:
+  name: Felix Payment Systems
+  url: "https://payfelix.com/"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: "I'm a Full Stack Developer with 5 years of experience building both frontend and backend applications. 
+ I’m skilled in modern development processes like agile and DevOps, 
+ and I work with technologies such as Java, Spring Boot, React.js, Node.js, Qt, and C++. 
+ I also have hands-on experience with Amazon Web Services. 
+ Originally from Hong Kong, I now live in Vancouver, British Columbia, Canada to pursue a better career."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "armandchung0904@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/silver0904"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: https://www.linkedin.com/in/armand-chung"
+
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My Resume"
+  url: "files/resume_2024_09_16.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: AWS Certified Solutions Architect – Associate
+  url: "https://www.credly.com/badges/ae879c6b-3a5a-43ef-82d5-73f6e4fce12a"
+  badge: "https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+
+- type: certification
+  name: Enterprise Design Thinking Practitioner
+  url: "https://www.credly.com/badges/05447de7-f49c-4faa-9a74-0dfdca3a08ab"
+  badge: "https://images.credly.com/size/680x680/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png"
+
+- type: certification
+  name: IBM Agile Explorer
+  url: "https://www.credly.com/badges/069f6a42-d0f3-476e-a7a9-f066185996b5"
+  badge: "https://images.credly.com/size/680x680/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png"
+
+# - type: soft-skill-indicator
+#   name: Leadership
+#   percentage: 85
+#   color: blue
+
+# - type: soft-skill-indicator
+#   name: Team Work
+#   percentage: 90
+#   color: yellow
+
+# - type: soft-skill-indicator
+#   name: Hard Working
+#   percentage: 85
+#   color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

@@ -1,0 +1,32 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: B.Eng. in Computer Engineering
+  icon: fa-graduation-cap
+  timeframe: 2015-2019
+  institution:
+    name: Hong Kong University of Science and Technology
+    url: "https://hkust.edu.hk/"
+    logo: "/images/sections/education/hkust.jpeg"
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/university.jpg
+
+- name: Fall Semester Exchange Program in Computer Science
+  icon: fa-university
+  timeframe: 2017-2018
+  institution:
+    name: Newcastle University
+    url: "https://www.ncl.ac.uk/"
+    logo: /images/sections/education/newcastle.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/science_college.png
+  
