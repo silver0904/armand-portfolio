@@ -26,11 +26,12 @@ experiences:
   - designation: Intermediate Software Developer
     start: Aug 2022
     responsibilities:
-    - Collaborated within a dynamic, small-sized team to spearhead the development of an innovative payment mobile application, leveraged tools such as Android Studio and Qt Creator.
+    - Develop an innovative payment mobile application in a small team setting, leveraged tools such as Android Studio and Qt Creator.
+    - Develop a web application for developers using React.js and Node.js
     - Conducted comprehensive code reviews to ensure adherence to best practices, optimizing code quality, and promoting efficient teamwork.
-    - Executed a successful application revamp, transitioning from Android Studio to Qt Creator (C++).
+    - Executed a successful application revamp, transitioning from Android Studio (Kotlin, Java) to Qt Creator (C++).
     - Applied Agile methodologies to implement new features and stories.
-    - Contributed to the system's robustness by designing and delivering detailed sequence diagrams for intricate features.
+    - Contributed to the system's robustness by designing
 
 - company:
     name: IBM
@@ -48,14 +49,12 @@ experiences:
     start: March 2021
     end: April 2022
     responsibilities:
-    - Served as a full stack developer of an AWS Cloud based B2B E-Commerce Application with 100+ microservices.
-    - Utilized full stack technologies including React.js, Node.js, Java Springboot, Restful API, GraphQL and MariaDB.
-    - Using Apache Kafka, Debezium, and Elastic Search to capture data change and update Data to search engine according to the Data Driven Design (DDD) model.
-    - Take advantage of Unit Testing and Test-Driven Development (TDD) to avoid potential bug.
-    - Investigated, resolved 50+ existing product defects.
-    - Implemented, assisted on design on 30+ stories in an Agile development environment.
-    - Managed and deployed cloud infrastructure using Amazon Web Service (AWS).
-    - Achieve continuous integration and continuous deployment (CI/CD) using shell scripting and Gitlab.
+      - Developed AWS-based B2B E-Commerce app with 100+ microservices, boosting system scalability.
+      - Implemented full stack tech including React.js, Node.js, Java Springboot, Restful API, GraphQL, MariaDB.
+      - Captured data changes using Apache Kafka, Debezium, Elastic Search, enhancing data accuracy.
+      - Utilized TDD and unit testing, reducing potential bugs and improving code reliability.
+      - Managed AWS cloud infrastructure, ensuring seamless deployment and operation.
+      - Achieved CI/CD with shell scripting and Gitlab, optimizing development workflow.
 
 - company:
     name: Automated System Limited
@@ -72,7 +71,8 @@ experiences:
     start: Sept 2019
     end: Feb 2021
     responsibilities:
-    - Implement the UI of the website with CSS, HTML, jQuery, bootstrap, jsp and the application logic with Java Springboot, supported by MS SQL Server as database.
-    - Integrated existing application with 2FA login.
-    - Designing entity relationship model of the database and application.
-    - Deployed new version of application and perform health check on Windows Server.
+    - Developed web application for Hong Kong Civil Aviation Department using Java Springboot and MS SQL Server.
+    - Implemented UI with CSS, HTML, jQuery, enhancing user experience and functionality.
+    - Integrated 2FA login, increasing security of the application.
+    - Designed database entity relationship model, ensuring efficient data management.
+    - Deployed new application versions and conducted health checks on Windows Server.

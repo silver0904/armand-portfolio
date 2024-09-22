@@ -80,3 +80,8 @@ params:
     
     newsletter:
       enable: false
+
+deployment:
+  targets:
+    - name: "aws"
+      URL: "s3://armand-portfolio?region=us-west-2"
